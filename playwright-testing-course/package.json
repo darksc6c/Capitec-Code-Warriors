@@ -1,0 +1,26 @@
+{
+  "name": "playwright-testing-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lesson:basics:1": "node javascript-fundamentals/basics/01_variables_and_datatypes.js",
+    "lesson:basics:2": "node javascript-fundamentals/basics/02_functions_and_scope.js",
+    "lesson:basics:3": "node javascript-fundamentals/basics/03_control_flow.js",
+    "lesson:basics:4": "node javascript-fundamentals/basics/04_objects_and_arrays.js",
+    "lesson:basics:5": "node javascript-fundamentals/basics/05_error_handling.js",
+    "lesson:async:1": "node javascript-fundamentals/async-programming/01_callbacks.js",
+    "lesson:async:2": "node javascript-fundamentals/async-programming/02_promises.js",
+    "lesson:async:3": "node javascript-fundamentals/async-programming/03_async_await.js",
+    "lesson:playwright:1": "node javascript-fundamentals/playwright-specific/01_browser_and_context.js",
+    "lesson:playwright:2": "node javascript-fundamentals/playwright-specific/02_page_interactions.js",
+    "lesson:playwright:3": "node javascript-fundamentals/playwright-specific/03_assertions_and_expectations.js",
+    "lesson:playwright:4": "node javascript-fundamentals/playwright-specific/04_test_organization.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1"
+  }
+}
