@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "test": "playwright test tests",
     "lesson:basics:1": "node javascript-fundamentals/basics/01_variables_and_datatypes.js",
     "lesson:basics:2": "node javascript-fundamentals/basics/02_functions_and_scope.js",
     "lesson:basics:3": "node javascript-fundamentals/basics/03_control_flow.js",
